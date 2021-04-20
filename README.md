@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex(@krawsssyy)
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning UNIX and pentesting on UNIX 
+- 👀 I’m interested in cybersecurity and cryptography
+- 🌱 I’m currently learning UNIX,pentesting on UNIX and Game development
 - 📫 How to reach me alexandru.bardas@stud.ubbcluj.ro - University email
 
 <!---
